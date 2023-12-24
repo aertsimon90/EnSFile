@@ -34,3 +34,4 @@ command <option> <filename> <customKey(Optional)>
    ```
    command de text.txt 12345
    ```
+# [Show Politics](https://github.com/aertsimon90/politics/blob/main/README.md)
